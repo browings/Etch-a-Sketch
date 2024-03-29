@@ -1,0 +1,17 @@
+
+
+.containerRow {
+    display: flex;
+    flex-flow: row wrap; 
+    width: 820px;
+        
+    
+}
+
+.box {
+    display: flex; 
+    flex-direction: column;
+    flex-grow: 1;
+    /*height: 50px;*/
+    border: 1px solid black;
+}
